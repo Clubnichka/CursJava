@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "web",
+			"path": "../../../datastorage/apache-tomcat-10.1.13/webapps/Test7/ServletProject/web"
+		},
+		{
+			"name": "LR3(1)",
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
